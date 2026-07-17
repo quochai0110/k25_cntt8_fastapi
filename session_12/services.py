@@ -22,5 +22,11 @@ def get_product_detail(product_id:int,db):
         "message":"tìm thấy sản phẩm thành công!",
         "data"   : product
     }
-    
+# hàm thêm sản phẩm
+
+# hàm xóa sản phẩm
+
+# hàm cập nhật sản phẩm
+
+
     
